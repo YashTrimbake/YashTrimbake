@@ -113,8 +113,8 @@ I have expertise in Python, SQL, and PySpark for implementing data-driven soluti
 <h2>🌐 Connect With Me</h2>
 
 <p>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/yash-trimbake-82a156193/">Add your LinkedIn</a><br>
-📧 Email: <a href="mailto:yash08.trimbake@gmail.com">Add your Email</a>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/yash-trimbake-82a156193/">www.linkedin.com/in/yash-trimbake-82a156193</a><br>
+📧 Email: <a href="mailto:yash08.trimbake@gmail.com">yash08.trimbake@gmail.com</a>
 </p>
 
 <br>
