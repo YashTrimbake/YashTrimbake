@@ -18,8 +18,8 @@ Full Stack Developer | Data Analytics Enthusiast | Associate IT Consultant | MES
 🎓 B.Tech in <b>Computer Engineering</b><br>
 💼 Associate IT Consultant at <b>ITC Infotech</b><br><br>
 
-I specialize in building enterprise and manufacturing solutions using 
-<b>Delmia Apriso MES</b>, backend APIs, and data-driven systems.
+🎓 A Computer Engineering graduate with a Bachelor’s degree, currently working as a Software Developer at ITC Infotech. 
+I have expertise in Python, SQL, and PySpark for implementing data-driven solutions. My experience includes working with Manufacturing Execution Systems (MES) and Microsoft Synapse Analytics. Seeking a role as a Database and API/Web Services Developer, with a focus on database optimisation, API development, and system integrations.
 
 <ul>
 <li>🏭 Experienced in <b>Manufacturing Execution Systems (MES)</b></li>
@@ -113,12 +113,12 @@ I specialize in building enterprise and manufacturing solutions using
 <h2>🌐 Connect With Me</h2>
 
 <p>
-💼 LinkedIn: <a href="YOUR_LINKEDIN_LINK">Add your LinkedIn</a><br>
-📧 Email: <a href="mailto:YOUR_EMAIL">Add your Email</a>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/yash-trimbake-82a156193/">Add your LinkedIn</a><br>
+📧 Email: <a href="mailto:yash08.trimbake@gmail.com">Add your Email</a>
 </p>
 
 <br>
 
 <p align="center">
-⭐ Always exploring new technologies in MES, Data Engineering, and Full Stack Development.
+⭐ Always exploring new technologies in Data Engineering and Full Stack Development.
 </p>
