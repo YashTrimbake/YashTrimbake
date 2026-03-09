@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋 I'm Yash Trimbake</h1>
 
 <h3 align="center">
-Associate IT Consultant | MES Developer | Full Stack Developer | Data Analytics Enthusiast
+Full Stack Developer | Data Analytics Enthusiast | Associate IT Consultant | MES Developer | 
 </h3>
 
 <br>
@@ -15,7 +15,7 @@ Associate IT Consultant | MES Developer | Full Stack Developer | Data Analytics 
 <h2>💫 About Me</h2>
 
 <p>
-🎓 M.Tech in <b>Computer Engineering</b><br>
+🎓 B.Tech in <b>Computer Engineering</b><br>
 💼 Associate IT Consultant at <b>ITC Infotech</b><br><br>
 
 I specialize in building enterprise and manufacturing solutions using 
